@@ -164,9 +164,10 @@ while True:
 ```
 
 ### OUTPUT SCREENSHOTS
+<img width="1365" height="723" alt="Screenshot 2025-11-06 093320" src="https://github.com/user-attachments/assets/927d4b25-c03a-4a3d-b10a-e3bbd5fef1d9" />
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/49150de9-8b76-4b13-9ab1-ef91f297efe3" />
 
+<img width="1363" height="726" alt="Screenshot 2025-11-06 093309" src="https://github.com/user-attachments/assets/d13bae08-c168-40e6-b4fe-8c31bd5d3d42" />
 
 ## Results
 
